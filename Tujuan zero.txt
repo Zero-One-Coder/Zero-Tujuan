@@ -1,0 +1,3 @@
+mempelajari HTML sebagai kerangka website
+mempelajari CSS untuk mendesain website agar tidak terlihat membosankan
+mempelajari JavaScript untuk pendukung html dan css 
